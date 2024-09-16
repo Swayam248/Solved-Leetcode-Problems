@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
