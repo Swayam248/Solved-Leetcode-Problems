@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1670-patients-with-a-condition](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
