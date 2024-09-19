@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1670-patients-with-a-condition](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1827-invalid-tweets) |
