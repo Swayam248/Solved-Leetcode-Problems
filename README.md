@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0169-majority-element) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0242-valid-anagram) |
