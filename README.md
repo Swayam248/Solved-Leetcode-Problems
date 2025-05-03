@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0137-single-number-ii) |
 ## String
 |  |
 | ------- |
