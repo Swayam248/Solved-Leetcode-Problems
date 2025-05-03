@@ -1,6 +1,6 @@
 class Solution:
     def rotate(self,nums, k):
-        n=len(nums)
+        # n=len(nums)
         # k=k%n
-        nums[:]=nums[-(k%n):]+nums[:-(k%n)]
+        nums[:]=nums[-(k%len(nums)):]+nums[:-(k%len(nums))]
         
