@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0620-not-boring-movies) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/1827-invalid-tweets) |
