@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [2470-removing-stars-from-a-string](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Swayam248/Solved-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
